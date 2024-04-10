@@ -8,7 +8,7 @@ Term: Spring 2024
 + Projec title: Machine Learning Fairness
 + Team members
 	+ Sally Zhao
-	+ team member 2
+	+ Haoyue Guo
 	+ team member 3
 	+ team member 4
 	+ team member 5
