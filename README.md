@@ -9,9 +9,8 @@ Term: Spring 2024
 + Team members
 	+ Sally Zhao
 	+ Haoyue Guo
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Jiaqi Liu
+	+ Yicheng Guo
 + Project summary: Team 8 was assigned "Learning Fair Representations" and "Fairness Constraints: Mechanisms for Fair Classification". Using the algorithms detailed in the papers, the team analyzed the COMPAS dataset, specifically looking at the subset for Caucasian and African-American recidivation rates. The algorithms were then evaluated on accuracy, calibration, and parity.
   
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
